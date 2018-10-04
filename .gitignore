@@ -42,6 +42,10 @@
 *.idb
 *.pdb
 
+#project files
+*.cbp
+*.sublime*
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
